@@ -1,5 +1,5 @@
 # AgentAR
-# Automated Restaurant Feedback Agent for SteamNoodles - [Your Name]
+# Automated Restaurant Feedback Agent for SteamNoodles
 
 This project contains a multi-agent framework designed to enhance the customer feedback process for the "SteamNoodles" restaurant chain, as outlined in the AgentX Project Guideline Book. It features two distinct AI agents: one for generating automated responses to customer feedback and another for visualizing sentiment trends over time.
 
