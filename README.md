@@ -3,9 +3,9 @@
 
 This project contains a multi-agent framework designed to enhance the customer feedback process for the "SteamNoodles" restaurant chain, as outlined in the AgentX Project Guideline Book. It features two distinct AI agents: one for generating automated responses to customer feedback and another for visualizing sentiment trends over time.
 
-  - [cite\_start]**Project:** AgentX Guildline Book [cite: 5]
-  - [cite\_start]**Organization:** Leos of SriLanka & Maldives, Leo Club of University of Moratuwa [cite: 1, 7]
-  - [cite\_start]**Sponsor:** ZONE24x7 [cite: 6]
+  -**Project:** AgentX Guildline Book
+  -**Organization:** Leos of SriLanka & Maldives, Leo Club of University of Moratuwa
+  -**Sponsor:** ZONE24x7
 
 ## Contributor Information
 
